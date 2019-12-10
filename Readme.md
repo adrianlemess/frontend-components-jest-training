@@ -57,7 +57,8 @@ Our problem now is that Juquinha took another freelance and cannot continue the 
 - As a P.O. I've already prioritize the requirements, we must follow the requirements order.
 - We must care with perfomance
 - You should do this training in group
-- You must create a module to mock your dependencies and help others developers to setup the tests
+- You must create a module test to mock your dependencies and help others developers to setup the tests
+- You must create tests for everything
 - A "PO" might ask you to change anything at anytime, so your code must be working ALWAYS, all the TIME.
 - The backend will be simulate by JSON Server (npm run apis)
 - We will use a dynamic called TDD Ping Pong

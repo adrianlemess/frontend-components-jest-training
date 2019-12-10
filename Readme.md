@@ -48,7 +48,7 @@ Our problem now is that Juquinha took another freelance and cannot continue the 
 - I want to show the units available in the stock and if it's 0, should show some label informing this. You might use some BAUX team expertise in this part 
 - Today I need to add another vehicle on HTML page and this is very hard for me. I think the data should come from something called "backend"
 - The pagination should work, but is not and I don't know why
-- I want to search a vehicle
+- I want to search a vehicle by the title information
 - I must be able to create another vehicle - with an image, brand, model, year and the price
 - The buy button should show an alert with the number +5555123123 and an email superawesomevehiclesstore@pop.com
 

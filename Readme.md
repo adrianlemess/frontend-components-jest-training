@@ -10,20 +10,21 @@ This repository is a frontend training to practice angular architecture, making 
 - json-server - npm install -g json-server
 
 ## How to setup
-- Inside the training folder type, install de dependencies:
+- Inside the training folder type:
 
 ```
 npm install
 ```
 
 ## Run the project
+Inside the training:
 
-Before start the project you should run the APIs:
+You should run the APIs:
 ```
 npm run apis
 ```
 
-and then start the project: 
+and then in another terminal, start the project: 
 ```
 npm start
 ```

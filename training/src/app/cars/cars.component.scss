@@ -1,0 +1,32 @@
+.container {
+  margin-top: 40px;
+  text-align: center;
+  border: 0px transparent;
+  &__title {
+    margin: 0;
+    margin-bottom: 40px;
+    filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.05));
+    font-size: 2.5em !important;
+    font-family: "Exo 2", Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: #fd7e14;
+    text-transform: none;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+
+  &__content {
+    margin-top: 50px;
+  }
+
+  .card {
+    margin-bottom: 30px;
+    margin-right: 5%;
+  }
+
+  .card-text {
+    & span {
+      font-weight: 600;
+    }
+  }
+}

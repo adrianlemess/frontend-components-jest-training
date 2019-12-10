@@ -1,0 +1,152 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "brand": "Chevrolet",
+      "model": "Agile LT 1.4 MPFI 8V flex",
+      "year": 2010,
+      "category": "car",
+      "imageUrl": "https://img.olx.com.br/images/67/671816000602508.jpg",
+      "price": 21500,
+      "stockUnits": 10
+    },
+    {
+      "id": 2,
+      "brand": "Dodge",
+      "model": "Dakota Durango SLT 5.2 4x4 V8",
+      "year": 1998,
+      "category": "car",
+      "imageUrl": "https://i.ytimg.com/vi/NtCOyk1KP5g/maxresdefault.jpg",
+      "price": 28.47,
+      "stockUnits": 2
+    },
+    {
+      "id": 3,
+      "brand": "Fiat",
+      "model": "Idea Advent./ Adv.LOCKER 1.8 mpi Flex 5p",
+      "year": 2016,
+      "price": 50414,
+      "stockUnits": 2,
+      "category": "car",
+      "imageUrl": "https://http2.mlstatic.com/fiat-idea-advent-advlocker-18-mpi-flex-5p-D_NQ_NP_907181-MLB26413039072_112017-F.jpg"
+    },
+    {
+      "id": 4,
+      "brand": "Mitsubishi",
+      "model": "Eclipse GT 3.8 V6 267cv",
+      "year": 2011,
+      "price": 103469,
+      "stockUnits": 1,
+      "category": "car",
+      "imageUrl": "https://http2.mlstatic.com/mitsubishi-eclipse-gt-v6-2007-2008-D_NQ_NP_922101-MLB20283158988_042015-F.jpg"
+    },
+    {
+      "id": 5,
+      "brand": "BMW",
+      "model": "F 700 GS",
+      "year": 2018,
+      "price": 39480,
+      "stockUnits": 5,
+      "category": "motorcycle",
+      "imageUrl": "https://motoadventure.com.br/wp-content/uploads/2017/07/F-700-GS-Premium.jpg"
+    },
+    {
+      "id": 6,
+      "brand": "SUZUKI",
+      "model": "TL 1000 S",
+      "year": 2002,
+      "price": 20479,
+      "stockUnits": 2,
+      "category": "motorcycle",
+      "imageUrl": "https://www.mrufer.ch/motorrad/aktuell_1004.jpg"
+    },
+    {
+      "id": 7,
+      "brand": "SUNDOWN",
+      "model": "STX MOTARD 200cc",
+      "year": 2008,
+      "price": 3997,
+      "stockUnits": 10,
+      "category": "motorcycle",
+      "imageUrl": "https://http2.mlstatic.com/adesivos-motard-stx-200-sundown-D_NQ_NP_22260-MLB20227081377_012015-F.jpg"
+    },
+    {
+      "id": 8,
+      "brand": "DUCATI",
+      "model": "MONSTER 900cc",
+      "year": 2001,
+      "price": 23714,
+      "stockUnits": 2,
+      "category": "motorcycle",
+      "imageUrl": "http://www.motorcyclespecs.co.za/Gallery/ducati%20Monster%20900%2094%20%201.jpg"
+    },
+    {
+      "id": 9,
+      "brand": "SCANIA",
+      "model": "G-360 A 4x2 3-Eixos/A 6x2 2p (dies.)(E5)",
+      "year": 2018,
+      "price": 291334,
+      "stockUnits": 3,
+      "category": "truck",
+      "imageUrl": "https://img.clasf.com.br/2017/05/20/SCANIA-G-420-A-4X2-3-EIXOSA-6X2-2P-DIESEL-20102011-20170520071146.jpg"
+    },
+    {
+      "id": 10,
+      "brand": "HYUNDAI",
+      "model": "HD80 3.0 16V (diesel)(E5)",
+      "year": 2018,
+      "price": 101375,
+      "stockUnits": 2,
+      "category": "truck",
+      "imageUrl": "https://imganuncios.mitula.net/hyundai_2013_diesel_hyundai_hd80_3_0_16v_diesel_e5_2013_diesel_branco_3220082521906758909.jpg"
+    },
+    {
+      "id": 11,
+      "brand": "VOLKSWAGEN",
+      "model": "10-160 E Delivery 2p (diesel)(E5)",
+      "year": 2017,
+      "price": 121373,
+      "stockUnits": 2,
+      "category": "truck",
+      "imageUrl": "https://www.linkmotors.com.br/usuarios/perfil_82123/anuncio_66003/anuncio_82123_1.jpg"
+    },
+    {
+      "id": 12,
+      "brand": "VOLVO",
+      "model": "FH 400 6x2 2p (diesel)",
+      "year": 2011,
+      "price": 139707,
+      "stockUnits": 3,
+      "category": "truck",
+      "imageUrl": "https://img.clasf.com.br/2016/08/13/Caminhao-volvo-fh-400-6x2-year-2010-2010-20160813152759.jpg"
+    },
+    {
+      "brand": "Honda",
+      "model": "CB600F",
+      "year": 2013,
+      "category": "motorcycle",
+      "price": 28990,
+      "stockUnits": 6,
+      "imageUrl": "http://www.doydomotos.com/wp/wp-content/uploads/2016/12/HORNET-2014-5.png",
+      "id": 16
+    }
+
+  ],
+  "categorys": [
+    {
+      "id": 1,
+      "descricao": "Veículos Leves",
+      "nome": "motorcycle"
+    },
+    {
+      "id": 2,
+      "descricao": "cars",
+      "nome": "car"
+    },
+    {
+      "id": 3,
+      "descricao": "Veículos Pesados",
+      "nome": "truck"
+    }
+  ]
+}

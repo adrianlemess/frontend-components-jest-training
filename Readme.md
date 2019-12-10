@@ -64,4 +64,4 @@ Our problem now is that Juquinha took another freelance and cannot continue the 
 - Each team should have:
   - One member to think what kind of tests we must have
   - One member to IMPLEMENT tests before programming, following the requirements
-  - One member to programming the tests
+  - One member to programming and making the tests pass

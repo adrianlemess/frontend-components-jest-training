@@ -2,7 +2,7 @@
 
 This repository is a frontend training to practice angular architecture, making better decisions and learning how to test better.
 
-## Requirements
+## Requirements to run
 
 - NodeJS LTS 12.13.1  and npm without sudo
 - VSCode

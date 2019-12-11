@@ -34,11 +34,11 @@ npm start
 
 ## What we are building
 
-I have a company that specializes in a car shop. Until recently, we had operated only with physical stores. In the last few months, we have decided to migrate our operation to the cloud. To achieve this, we hired Juquinha, web designer specialist with PHP and Wordpress. 
+ My company specializes in selling motorized vehicles. Until recently, we only had brick and mortir stores. In the last few months, we have decided to migrate our operational system to the cloud. To achieve this, we have hired Juquinha, a PHP and Wordpress web designer specialist. 
 
-Digging into some forums on deep web, I have found that nowadays, Angular is the best web framework and because of this, I've asked to Juquinha (web development specialist) to make our online store in Angular.
+Digging into some forums in the deep web, I have found that nowadays, Angular is the best web framework and because of this, I've asked Juquinha (web development specialist) to build our online store in Angular.
 
-Our problem now is that Juquinha took another freelance and cannot continue the online store. That's why I contact ilegra to help with our frontend application, and other company to help with the backend.
+Our problem now is that Juquinha started another JavaScript project and cannot continue the online store development. That's why I have contacted ilegra to help with our frontend application and another company to help with the backend.
 
 ## Requirements
 
